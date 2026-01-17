@@ -34,8 +34,8 @@ Attendance data is stored and managed efficiently.
 
 Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Face-attendance-system.git
-cd Face-attendance-system
+git clone https://github.com/your-username/Face-attendace-system.git
+cd Face-attendace-system
 
 2️⃣ Install Required Libraries
 pip install opencv-python opencv-contrib-python mysql-connector-python pillow numpy
