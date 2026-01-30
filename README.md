@@ -34,7 +34,7 @@ Attendance data is stored and managed efficiently.
 
 Setup Instructions
 1️⃣ Clone the Repository
-git clone https://github.com/DheerajDev-leper/Face-attendace-system.git
+git clone https://github.com/DheerajDev-leper/Face-attendance-system.git
 cd Face-attendace-system
 
 2️⃣ Install Required Libraries
