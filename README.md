@@ -6,7 +6,6 @@ A desktop-based **Face Recognition Attendance System** built with **Python, Open
 ![OpenCV](https://img.shields.io/badge/OpenCV-LBPH-green?logo=opencv&logoColor=white)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-orange?logo=mysql&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-yellow)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 
